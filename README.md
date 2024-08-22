@@ -1,9 +1,9 @@
-- 👋 Hi, I’m # @Sangwanji
-- 👀 I’m interested in # Webdev #competitivecoding
-- 🌱 I’m currently learning # C++
+- 👋 Hi, I’m @Sangwanji
+- 👀 I’m interested in Webdev, competitivecoding
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail sakshamsangwan2005@outlook.com
-- 😄 Pronouns: # his
+- 😄 Pronouns: his
 - ⚡ Fun fact: ...
 
 <!---
