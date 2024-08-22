@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail sakshamsangwan2005@outlook.com
-- 😄 Pronouns: his
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
