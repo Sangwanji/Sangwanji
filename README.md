@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SHsSEVVy7IrMvLhaypSwRHxMkKxQdyRQpVI9IWCpt9AKTDq25dAI3gw&s=10)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SHsSEVVy7IrMvLhaypSwRHxMkKxQdyRQpVI9IWCpt9AKTDq25dAI3gw&s=10)
 <h1 align="center">Hi 👋, I'm Saksham Sangwan</h1>
 <h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FFR3Z6htVv6Z8tJs5ksuwinPNIqVumLWCw&s"
